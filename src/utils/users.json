@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Leonardo Rodrigues",
+      "accountType": "Pessoa Física",
+      "email": "leonardo@example.com",
+      "issues": [
+        {
+          "id": "101",
+          "description": "Cartão bloqueio por suspeita de fraude",
+          "status": "em análise"
+        },
+        {
+          "id": "102",
+          "description": "Acesso a conta bloqueado por excesso de tentativas",
+          "status": "finalizado"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Maria Vitória",
+      "accountType": "Pessoa Jurídica",
+      "email": "maria@example.com",
+      "issues": [
+        {
+          "id": "201",
+          "description": "Cartão bloqueio por exceder as tentativas de senha",
+          "status": "finalizado"
+        }
+      ]
+    }
+  ]
+}
