@@ -99,10 +99,3 @@ The system combines multiple specialized agents, a Retrieval-Augmented Generatio
 - Retrieved context is injected into the LLM prompt.
 - The LLM then produces a response grounded in the retrieved data, reducing hallucination.
 
----
-
-## 📖 Additional Resources
-
-- [Architecture Diagram](link-to-diagram)
-- [API Documentation](link-to-docs)
-- [Contributing Guidelines](CONTRIBUTING.md)
